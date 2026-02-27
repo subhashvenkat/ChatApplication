@@ -100,7 +100,7 @@ chat-app/
 ## ⭐ Support
 
 If you like this project:
- ⭐ Star this repository
- 🍴 Fork it
- 📢 Share it
+ -⭐ Star this repository
+ -🍴 Fork it
+ -📢 Share it
 
