@@ -93,9 +93,9 @@ chat-app/
 2. Session stores user ID and email.
 3. chat.php loads friend list.
 4. Vue.js sends AJAX requests to:
-5. Fetch messages
-6. Send messages
-7. Messages update automatically every 3 seconds
+   -Fetch messages
+   =Send messages
+5. Messages update automatically every 3 seconds
 
 ---
 
