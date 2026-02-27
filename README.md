@@ -31,7 +31,7 @@ Users can log in, view friends, and exchange messages instantly using AJAX polli
 - MySQL Database
 
 ### Tools
-- XAMPP / WAMP
+- XAMPP
 - Git & GitHub
 
 ---
