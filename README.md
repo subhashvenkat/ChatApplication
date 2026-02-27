@@ -38,12 +38,14 @@ Users can log in, view friends, and exchange messages instantly using AJAX polli
 
 ## 📂 Project Structure
 
+```
 chat-app/
 │
 ├── chat.php        # Main chat page
 ├── login.php       # Login page
 ├── database.sql    # Database structure and sample data
 └── README.md
+```
 
 ---
 
@@ -100,7 +102,7 @@ chat-app/
 ## ⭐ Support
 
 If you like this project:
- -⭐ Star this repository
- -🍴 Fork it
- -📢 Share it
+ . ⭐ Star this repository
+ . 🍴 Fork it
+ . 📢 Share it
 
