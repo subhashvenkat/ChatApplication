@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     </div>
     <div class="row mt-4">
         <div class="col-md-4">
-            <h4>Users</h4>
+            <h4>Friends</h4>
             <ul class="list-group">
                 <li v-for="user in users" :key="user.id" 
                     class="list-group-item list-group-item-action d-flex align-items-center"@click="selectUser(user)">
