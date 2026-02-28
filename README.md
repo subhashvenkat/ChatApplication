@@ -24,10 +24,9 @@ Users can log in, view friends, and exchange messages instantly using AJAX polli
 - Bootstrap 5
 - HTML5
 - CSS3
-- Font Awesome
 
 ### Backend
-- PHP (Core PHP)
+- PHP
 - MySQL Database
 
 ### Tools
